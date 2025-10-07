@@ -21,7 +21,7 @@ Titanic_Project/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/fidasaleem/CodSoft_TitanicSurvival_.git
-cd Titanic_Project
+cd Titanic_Survival
 ```
 ### 2. Install dependencies
 ```bash
